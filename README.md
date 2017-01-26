@@ -1,6 +1,6 @@
 # chess_2d
 
-Synopsis
+#Synopsis
 
 This is a chess game developed in Java.
 
