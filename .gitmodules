@@ -1,0 +1,3 @@
+[submodule "javadoc"]
+	path = javadoc
+	url = https://github.com/angelmmg90/chess_2d
