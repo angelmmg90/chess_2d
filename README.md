@@ -4,7 +4,7 @@ This is a chess game developed in Java.
 
 ## documentation
 
-More info about the documentation -> https://angelmmg90.github.io/chess_2d/
+More info about the documentation -> https://angelmmg90.github.io/chess-2d/
 
 ## motivation/context
 
