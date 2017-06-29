@@ -10,7 +10,7 @@ import javax.imageio.ImageIO;
 /**
  * Clase que define la entidad Rey
  * 
- * @author Ángel Mac Donald Gainza
+ * @author Ángel Mac Donald
  */
 public class Rey extends Pieza{
     

@@ -6,7 +6,7 @@ import java.io.Serializable;
  * Clase que representa a la entidad jugador y que implementa la interfaz
  * serializable para poder grabarla en archivos.
  * 
- * @author Ángel Mac Donald Gainza
+ * @author Ángel Mac Donald
  */
 public class Jugador implements Serializable{
     

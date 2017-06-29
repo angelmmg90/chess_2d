@@ -7,7 +7,7 @@ import javax.swing.ImageIcon;
 /**
  * Clase de la ventana (dialog) de Acerca De.
  *
- * @author Ángel Mac Donald Gainza
+ * @author Ángel Mac Donald
  */
 public class Acerca extends javax.swing.JDialog {
 

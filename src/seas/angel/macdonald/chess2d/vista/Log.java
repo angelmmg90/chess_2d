@@ -9,7 +9,7 @@ import javax.swing.JList;
 /**
  * Clase de la ventana (dialog) del Log del juego.
  *
- * @author Ángel Mac Donald Gainza
+ * @author Ángel Mac Donald
  */
 public class Log extends javax.swing.JDialog implements Serializable{
 

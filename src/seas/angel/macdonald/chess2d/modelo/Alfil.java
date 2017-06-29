@@ -6,7 +6,7 @@ import java.util.Objects;
 /**
  * Clase que define la entidad Alfil
  * 
- * @author Ángel Mac Donald Gainza
+ * @author Ángel Mac Donald
  */
 public class Alfil extends Pieza{
 

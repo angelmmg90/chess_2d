@@ -9,7 +9,7 @@ import javax.swing.JButton;
 /**
  * Clase que define la entidad de todas las Piezas, implementa la interfaz Serializable para poder realizar el grabado en los archivos.
  * 
- * @author Ángel Mac Donald Gainza
+ * @author Ángel Mac Donald
  */
 public class Pieza extends JButton implements Serializable{
     /**

@@ -7,7 +7,7 @@ import java.util.Objects;
 /**
  * Clase que define la entidad Caballo
  * 
- * @author Ángel Mac Donald Gainza
+ * @author Ángel Mac Donald
  */
 public class Caballo extends Pieza{
     

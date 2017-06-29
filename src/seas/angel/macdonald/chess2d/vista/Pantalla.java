@@ -11,7 +11,7 @@ import seas.angel.macdonald.chess2d.modelo.Partida;
 /**
  * Clase con la ventana donde se desarrolla la partida.
  * 
- * @author Ángel Mac Donald Gainza
+ * @author Ángel Mac Donald
  */
 public class Pantalla extends javax.swing.JFrame {
     

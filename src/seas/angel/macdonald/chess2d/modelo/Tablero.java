@@ -7,7 +7,7 @@ import java.util.ArrayList;
 /**
  * Clase que define la entidad Tablero que implementa la interfaz serializable para poder realizar posteriormente el grabado de datos correctamente
  * 
- * @author Ángel Mac Donald Gainza
+ * @author Ángel Mac Donald
  */
 public class Tablero implements Serializable{
 

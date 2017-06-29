@@ -29,7 +29,7 @@ import seas.angel.macdonald.chess2d.modelo.Torre;
 /**
  * Clase con el panel donde se cargaran los componentes.
  * 
- * @author Ángel Mac Donald Gainza
+ * @author Ángel Mac Donald
  */
 public class PanelTablero extends javax.swing.JPanel {
     

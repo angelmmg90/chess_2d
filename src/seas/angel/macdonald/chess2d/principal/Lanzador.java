@@ -9,7 +9,7 @@ import javax.imageio.ImageIO;
 /**
  * Clase lanzadora de la aplicacion.
  * 
- * @author Ángel Mac Donald Gainza
+ * @author Ángel Mac Donald
  */
 public class Lanzador {
     

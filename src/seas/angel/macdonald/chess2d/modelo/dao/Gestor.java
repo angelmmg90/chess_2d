@@ -15,7 +15,7 @@ import seas.angel.macdonald.chess2d.modelo.Partida;
  * Clase que se encarga de guardar y cargar partidas.
  * 
  * @author Juan José Hernández Alonso
- * @author Ángel Mac Donald Gainza
+ * @author Ángel Mac Donald
  */
 //  AGOSTO2016 - Ángel - Modificó la clase para adaptarla al uso de Chess 2D
 

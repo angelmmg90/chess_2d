@@ -11,7 +11,7 @@ import javax.imageio.ImageIO;
 /**
  * Clase que contiene todos los elementos que intervienen en una partida, implementa la interfaz serializable para grabar el juego en un archivo
  * 
- * @author Ángel Mac Donald Gainza
+ * @author Ángel Mac Donald
  */
 public class Partida implements Serializable{
     

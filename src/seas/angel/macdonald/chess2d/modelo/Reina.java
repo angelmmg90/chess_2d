@@ -6,7 +6,7 @@ import java.util.Objects;
 /**
  * Clase que define la entidad Reina
  * 
- * @author Ángel Mac Donald Gainza
+ * @author Ángel Mac Donald
  */
 public class Reina extends Pieza{
           

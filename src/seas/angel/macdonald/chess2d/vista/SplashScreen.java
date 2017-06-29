@@ -6,7 +6,7 @@ import javax.swing.*;
 /**
  * Clase que carga la SplashScreen nada más inciar el juego
  * 
- * @author Ángel Mac Donald Gainza
+ * @author Ángel Mac Donald
  */
 public class SplashScreen extends JWindow {
   /**

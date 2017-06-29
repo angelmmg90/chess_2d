@@ -18,7 +18,7 @@ import javax.swing.JFrame;
 /**
  * Clase que define la entidad Celda, implementa la interfaz serializable para poder realizar el grabado de archivos
  * 
- * @author Ángel Mac Donald Gainza
+ * @author Ángel Mac Donald
  */
 public class Celda extends JButton  implements Serializable{
     
